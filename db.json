@@ -1,16 +1,10 @@
 {
-  "AB": {
-    "A": {
-      "U": "https://www.jzfdc88.cn/",
-      "onoff": 5,
+  "useinfo": {
+    "info": {
+      "U": "https://www.ioecoin.com/h5",
+      "role": 0,
       "isios": 0,
-      "iosU": "1",
-      "Event": [
-       
-      ],
-      "ID": [
-     
-      ]
+      "iosU": "1"
     }
   }
 }
